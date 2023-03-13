@@ -33,6 +33,7 @@ Next, make sure you're in the `handson-ml3` directory and run the following comm
 
     $ conda env create -f environment.yml
 
+
 Next, activate the new environment:
 
     $ conda activate homl3

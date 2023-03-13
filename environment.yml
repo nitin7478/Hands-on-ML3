@@ -40,6 +40,6 @@ dependencies:
     - tensorflow~=2.10.0  # Deep Learning library
     - transformers~=4.21.3  # Natural Language Processing lib for TF or PyTorch
     - urlextract~=1.6.0  # optionally used in chapter 3, exercise 4
-    - gym[classic_control,atari,accept-rom-license]~=0.26.1  # used only in ch18
+    # - gym[classic_control,atari,accept-rom-license]~=0.26.1  # used only in ch18
     - google-cloud-aiplatform~=1.17.0  # used only in chapter 19
     - google-cloud-storage~=2.5.0  # used only in chapter 19
